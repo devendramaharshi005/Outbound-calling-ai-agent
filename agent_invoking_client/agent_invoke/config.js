@@ -1,0 +1,1 @@
+export const LIVEKIT_APP_URL = import.meta.env.VITE_LIVEKIT_URL;
