@@ -7,6 +7,12 @@ The voice agent:
 - Uses STT, TTS, and LLMs for intelligent conversations.
 - Provides real-time WebSocket-based monitoring.
 
+
+
+**Sample Application Image**
+
+![Screenshot](Screenshot_agent.png)
+
 ---
 
 ## 📁 Project Structure
